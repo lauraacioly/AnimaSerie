@@ -4,7 +4,7 @@ Site de catálogo de filmes, séries e animes com sistema de avaliação por est
 
 ## 📸 Preview
 
-![Preview do site](https://lauraacioly.github.io/Projeto-Prog-Web/)
+Acesse o site para visualizar o projeto completo.
 
 🔗 **[Acesse o site ao vivo](https://lauraacioly.github.io/Projeto-Prog-Web/)**
 
